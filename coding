@@ -1,6 +1,7 @@
-a=12
+a=10
 b=140
 c=38
 d=45
-e=a-b+d-c
+e=b-a+d-c
 print= e
+=213
